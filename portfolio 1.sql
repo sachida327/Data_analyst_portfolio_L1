@@ -206,3 +206,4 @@ WHERE dea.continent IS NOT NULL
 --order by 2,3
 select*
 from percenatgepoulation_vaccinated
+
